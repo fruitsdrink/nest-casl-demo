@@ -1,0 +1,15 @@
+
+### 获取用户列表
+GET /users
+
+### 获取用户信息
+GET /users/1
+
+### 新增用户
+POST /users
+
+### 修改用户信息
+PATCH /users/1
+
+### 删除用户
+DELETE /users/1
